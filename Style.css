@@ -10,18 +10,6 @@
 .nav-bar a{
   margin: 0 25px;
 }
-div.flex {
-  display: flex; 
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 400px;
-  border: rgb(255, 255, 255) solid 2px;
-  background-image: url("IMG Folder/El-Capitan.jpeg");
-  background-position: 0 40%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .flex_item {
   font-size: 50pt;
   font-family: sans-serif;
@@ -79,7 +67,6 @@ div.flex {
 }
 
 .AboutMeImage {
-  border: 20px solid rgb(138, 71, 71);
   display: flex;
   gap: 50px;
   flex-direction: row;
