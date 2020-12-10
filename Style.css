@@ -10,6 +10,11 @@
 .nav-bar a{
   margin: 0 25px;
 }
+
+.img {
+  width: 100%;
+  height: 400px;
+}
 .flex_item {
   font-size: 50pt;
   font-family: sans-serif;
